@@ -20,8 +20,8 @@ public class DemoApplication {
 		System.out.println("User Details CSV Program:");
 
 		//CSV will be created on below filepath.
-		String filepath="D:/CSVData/users.csv";
-		String sortedFilepath="D:/CSVData/users-sorted.csv";
+		String filepath="D:/DemoApp/assignment/users.csv";
+		String sortedFilepath="D:/DemoApp/assignment/users-sorted.csv";
 		DemoApplication demoObject=new DemoApplication();
 
 		//to create user details entry in csv
